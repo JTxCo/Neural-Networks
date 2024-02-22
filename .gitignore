@@ -1,0 +1,22 @@
+# General
+*.log
+*.csv
+*.tsv
+*.json
+
+# Model checkpoints
+model_checkpoints/
+
+# Data files
+data/
+*.zip
+*.tar.gz
+
+# Virtual environment
+env/
+.venv/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
